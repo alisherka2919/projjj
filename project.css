@@ -1,0 +1,87 @@
+.top {
+    display: flex;
+    height: 15px;
+    size: 100px;
+    width: 300px;
+    margin: 15px;
+    border-radius: 15px;
+    border: 9px white;
+}
+
+.ggg  {
+    justify-content: center;
+    flex-wrap: wrap;
+    display: flex;
+    align-content: center;
+}
+
+.gmail {
+    display: flex;
+    width: 500px;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    left: 50px;
+    align-items: flex-end;
+    top: 20px;
+    align-content: center;
+}
+
+.number {
+    background-color: antiquewhite;
+    border-radius: 25px;
+    width: 110px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+.header2 {
+    display: flex;
+    flex-direction: row;
+    color:rgb(9,185,156);
+    justify-content: space-evenly;
+}
+
+.crush {
+    gap:30px;
+    padding: 35px;
+}
+
+.rin {
+    gap: 50px;
+    display: flex;
+    height: 250px;
+    padding:20px;
+}
+
+.dumb {
+    gap: 50px;
+    padding: 20px;
+}
+
+.eee {
+    padding: 20px;
+    gap: 50px;
+    border-radius: 50px;
+}
+
+.ccc{
+    display: grid;
+    padding-left: 60px;
+}
+
+.footer {
+    display: flex;
+    background-color: rgb(9,185,156);
+    flex-direction: row;
+    justify-content: space-evenly;
+    height: 200px;
+    color: white;
+    padding-top: 20px;
+    gap: 20px;
+}
+
+.fm {
+    flex-direction: column;
+}
